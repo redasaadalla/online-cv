@@ -33,7 +33,7 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Professional
+          level: Native
 
         - idiom: Filipino
           level: Native
@@ -41,10 +41,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: 3d-Printing
           link:
 
-        - item: Snowboarding
+        - item: Aquariums
           link:
 
         - item: Cooking
