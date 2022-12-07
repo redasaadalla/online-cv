@@ -89,17 +89,23 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: SharePoint Architect
+        time: 2014 - 2021
+        company: CSC
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Primary product owner for custom .NET tax accounting application utilizing SharePoint, ADFS and SQL technologies.
+            - Subject Matter Expert (SME) for all SharePoint-related technologies such as PowerBI, PowerPivot and BCS.
+            - Responsible for supporting more than 4,000 internal users and 6,000 customers globally.
+            - Consolidated multiple SharePoint farms of acquired organizations during a period of company acquisition.
+            - Migrated ~100 site collections from on-premise to O365 using a combination of Metalogix, Sharegate and AvePoint.
+            - Planned and managed information architecture of department SharePoint sites that utilized a formal governance plan with executive and business stakeholders.
+            - Proposed, estimated, and executed projects using agile software development (kanban and scrum).
+            - Support lead for all SharePoint-related issues related to Workflows, Databases, Web Parts, Search, and Service Applications.
+            - Created custom and OOTB workflows using a combination of Power Automate, SharePoint Designer, InfoPath and Windows Workflow Foundation (WWF).
+            - Helped configure all external portals to comply with Department of Defense (DoD) security standards by employing SSL, firewall and monitoring solutions.
+            - Deep knowledge regarding proper troubleshooting methods by making use of programs such as ULS viewer and Fiddler.
+            - Configured and tailored Search Enterprise for SharePoint to enable search throughout the entirety of the company and provide custom results with use of queries and refiners.
+            - Standardized SharePoint data input to ensure data integrity by creating and using content types and content type hub.
       - role: Solutions Architect
         time: 2010 - 2014
         company: The Ruby Technology Group
