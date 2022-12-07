@@ -74,24 +74,21 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
+      - role: Co-Founder, Principal Cloud Architect
         time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        company: Digital Transformation Innovators Group (DTIG)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Architected the organization to fully utilize Microsoft O365 and Azure DevOps on all aspects of business.
+            - Experience with Azure Cloud services (PaaS & IaaS), Azure VMs, Azure Storage, AAD and Application Insights.
+            - Developed and Designed Azure DevOps projects that fully utilizes the CMMI process.
+            - Experience with architecture for source code management (SCM) and version control systems (VCS).
+            - Virtualized servers using Docker for business needs, also configuration automation using Docker containers.
+            - O365 (Architecture)
+            - Linux (Projects)
+            - Azure (Placeholder)
       - role: SharePoint Architect
         time: 2014 - 2021
-        company: CSC
+        company: Corporations Services Company (CSC)
         details: |
             - Primary product owner for custom .NET tax accounting application utilizing SharePoint, ADFS and SQL technologies.
             - Subject Matter Expert (SME) for all SharePoint-related technologies such as PowerBI, PowerPivot and BCS.
