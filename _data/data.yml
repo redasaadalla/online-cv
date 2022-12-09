@@ -160,8 +160,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 25%
 
       - name: Javascript & jQuery
         level: 98%
