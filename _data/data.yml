@@ -41,7 +41,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: 3d-Printing
+        - item: 3D-Printing
+          link:
+
+        - item: Self-Hosting
           link:
 
         - item: Aquariums
@@ -54,7 +57,7 @@ career-profile:
     title: Career Profile
     summary: |
       Co-founder and managing partner of Digital Transformation Innovators Group (DTIG) with over 15 years of extensive IT experience in both public and private sectors.
-      I been the lead technical adviser and relationship manager at XXX, XXX, Corporation Services Company (CSC), and DTIG where I have constantly shown my strengths for overcoming challenging technical roadblocks and keeping projects on track. 
+      My areas of focus currently revolves around 
       
       Our culture is to do make the world a better place for all and to do no harm.
 education:
