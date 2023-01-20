@@ -90,15 +90,12 @@ experiences:
         company: Digital Transformation Innovators Group (DTIG)
         details: |
             - Co-founded IT digital transformation services consulting company averaging $1 million in yearly revenue.
-            - Architected the organization to fully utilize Microsoft O365 and Azure DevOps on all aspects of business.
-            - Experience with Azure Cloud services (PaaS & IaaS), Azure VMs, Azure Storage, AAD and Application Insights.
-            - Developed and Designed Azure DevOps projects that fully utilizes the CMMI process.
-            - Experience with architecture for source code management (SCM) and version control systems (VCS).
-            - Virtualized servers using Docker for business needs, also configuration automation using Docker containers.
-            - Lead embedded device designer for an AI based hand sanitation device which incorporated a bevy of technologies including containerization and microservices
-            - O365 (Architecture)
-            - Linux (Projects)
-            - Azure (Placeholder)
+            - Architected the organization to fully utilize Microsoft O365 and Azure DevOps to facilitate all aspects of the business.
+            - Executed planning, design, and deployment of cloud services, physical hosts, VMs, containers and microservices for all internal/external purposes.
+            - Implemented a ground-up organizational shift from waterfall to Agile/SCRUM/CMMI to increase productivity by 20%
+            - Cosntructed structure, governance and automated CI/CD pipelines for cloud and on-prem source code version control systems (VCS) to streamline DevOps processes.
+            - Lead embedded device designer for an AI based hand sanitation device which incorporated IoT Edge, AGI, Machine Learning(ML) and Computer Vision(CV) for early-stage startups.
+            - Introduced Linux into the ecosystem to replace Windows services and functions to save company $50,000 annually
       - role: SharePoint Architect
         time: 2014 - 2021
         company: Corporations Services Company (CSC)
