@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -126,42 +126,42 @@ experiences:
             - Developed and deployed new solutions, web parts and branding elements in SharePoint using Visual Studio, SP Designer, CSS, XML, Master page and JQuery.
             - Automated large SharePoint deployments where average farm size was greater than 10 using PowerShell and VBScript.
             - Consulted for sausage-casing manufacturer on a project that unified financial and business data across departments, locations, and countries using SharePoint and SAP. 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. 
-    assignments:
-      - title: PlaceHolder
-        link: "#hook"
-        tagline: "This is a placeholder."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects in this
+#       section. 
+#     assignments:
+#       - title: PlaceHolder
+#         link: "#hook"
+#         tagline: "This is a placeholder."
 
-      - title: PlaceHolder
-        link: "#"
-        tagline: "This is a placeholder."
+#       - title: PlaceHolder
+#         link: "#"
+#         tagline: "This is a placeholder."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. 
-    contributions:
-      - title: PlaceHolder
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. 
+#     contributions:
+#       - title: PlaceHolder
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: PlaceHolder
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: PlaceHolder
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-publications:
-    title: 
-    intro: 
-    papers:
-      - title: 
-        link: 
-        authors: 
-        conference: 
+# publications:
+#     title: 
+#     intro: 
+#     papers:
+#       - title: 
+#         link: 
+#         authors: 
+#         conference: 
 
 
 
@@ -187,5 +187,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
