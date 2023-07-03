@@ -38,6 +38,9 @@ sidebar:
         - idiom: Filipino
           level: Native
 
+        - idiom: Hiligaynon
+          level: Native
+
     interests:
       title: Interests
       info:
@@ -57,8 +60,6 @@ career-profile:
     title: Career Profile
     summary: |
       A specialist within the IT stack, from architecture to production, who utilizes an entrepreneurial spirit and knowledge of emerging technologies to increase ROI for any organization.
-
-      
 
       Seeking to utilize my "subject matter expertise" of the entire stack from architecture to production to effectively communicate and build relationships to interact, inform, 
       influence and communicate with key stakeholders at all levels across the company.
@@ -86,46 +87,45 @@ experiences:
     title: Experiences
     info:
       - role: Co-Founder, Principal Cloud Architect
-        time: 2015 - present
+        time: 2017 - present
         company: Digital Transformation Innovators Group (DTIG)
         details: |
-            - Co-founded IT digital transformation services consulting company averaging $1 million in yearly revenue.
+            - Proven track record of success in the consulting industry, having co-founded and sold a company that has grown to employ eight people and generate over $1 million in annual revenue.
+            - Intimately involved in 2 start-ups that have a combined valuation of ~$5 million and 3 USPTO patents.
+            - Participated on design for an AI based hand sanitation device which incorporated IoT Edge, AGI, Machine Learning (ML) and Computer Vision (CV) for early-stage startups.
             - Architected the organization to fully utilize Microsoft O365 and Azure DevOps to facilitate all aspects of the business.
+            - Transitioned large teams with legacy systems to M365, to increase work intake fourfold. 
             - Executed planning, design, and deployment of cloud services, physical hosts, VMs, containers and microservices for all internal/external purposes.
             - Implemented a ground-up organizational shift from waterfall to Agile/SCRUM/CMMI to increase productivity by 20%
             - Cosntructed structure, governance and automated CI/CD pipelines for cloud and on-prem source code version control systems (VCS) to streamline DevOps processes.
             - Lead embedded device designer for an AI based hand sanitation device which incorporated IoT Edge, AGI, Machine Learning(ML) and Computer Vision(CV) for early-stage startups.
             - Introduced Linux into the ecosystem to replace Windows services and functions to save company $50,000 annually
-            - Intimately involved in 2 start ups that valuated of combine valuation of ~$5 million.
+            - Created and deployed a high-availability and disaster recovery SharePoint solution for a leading medical institution affiliated with a top 6 university in the country.
+            - Helped migrate a custom SharePoint environment which utilizes global document and content types for the top law firm in the world.
+            - Transitioned the team to adopt teams as their new collaboration platform, reducing the time it takes to complete projects by 30%.
+            - Helped configure all external portals to comply with Department of Defense (DoD) security standards by employing SSL, firewall and monitoring solutions.
       - role: SharePoint Architect
         time: 2014 - 2021
         company: Corporations Services Company (CSC)
         details: |
-            - Primary product owner for custom .NET tax accounting application utilizing SharePoint, ADFS and SQL technologies.
-            - Subject Matter Expert (SME) for all SharePoint-related technologies such as PowerBI, PowerPivot and BCS.
-            - Responsible for supporting more than 4,000 internal users and 6,000 customers globally.
-            - Consolidated multiple SharePoint farms of acquired organizations during a period of company acquisition.
-            - Migrated ~100 site collections from on-premise to O365 using a combination of Metalogix, Sharegate and AvePoint.
-            - Planned and managed information architecture of department SharePoint sites that utilized a formal governance plan with executive and business stakeholders.
-            - Proposed, estimated, and executed projects using agile software development (kanban and scrum).
-            - Support lead for all SharePoint-related issues related to Workflows, Databases, Web Parts, Search, and Service Applications.
-            - Created custom and OOTB workflows using a combination of Power Automate, SharePoint Designer, InfoPath and Windows Workflow Foundation (WWF).
-            - Helped configure all external portals to comply with Department of Defense (DoD) security standards by employing SSL, firewall and monitoring solutions.
-            - Deep knowledge regarding proper troubleshooting methods by making use of programs such as ULS viewer and Fiddler.
+            - Primary product owner for team of 13 for custom .NET tax accounting application utilizing SharePoint, ADFS and SQL technologies.
+            - Subject Matter Expert (SME) for all content management systems including Confluence, SharePoint and all SharePoint-related technologies.
+            - Planned and managed information architecture of enterprise documents that utilized a formal governance plan with executive and business stakeholders to increase user adoption. 
+            - Managed enterprise document information architecture and SharePoint data input standardization with a formal governance plan and content types to improve user adoption.
+            - Responsible for supporting more than 6,500 internal users and 5,000 customers globally.
+            - Consolidated the content management systems of 6 CSC company acquisition of 2500~ employees, resulting in a 50%~ reduction in licensing and hardware.
+            - Migrated the site collections for ~50 site departments from on-premise to O365 using a combination of Metalogix, Sharegate and Powershell.
             - Configured and tailored Search Enterprise for SharePoint to enable search throughout the entirety of the company and provide custom results with use of queries and refiners.
-            - Standardized SharePoint data input to ensure data integrity by creating and using content types and content type hub.
-      - role: Solutions Architect
+            - Created dozens of complex custom workflows using a combination of Power Automate, SharePoint Designer, VSCode and InfoPath.
+      - role: SharePoint Administratior/System Engineer
         time: 2010 - 2014
         company: The Ruby Technology Group
         details: |
-            - Responsible for hardware and networking provisioning, SharePoint installation and configuration, and third party management and monitoring tools.
+            - Lead administrator to a multi-million dollar project to create an accounting portal for 2000 users of the world’s largest auto manufacturing company.
+            - Responsible for design and support between SharePoint and other systems including Exchange, OCS/Lync, SCOM/SCCM, Great Plains and Microsoft CRM.
+            - Developed and deployed new solutions, web parts and branding elements in SharePoint using Visual Studio, SP Designer, CSS, XML, Master page and JQuery.
             - Automated large SharePoint deployments where average farm size was greater than 10 using PowerShell and VBScript.
-            - Consulted for sausage-casing manufacturing company that unified financial and business data across departments, locations, and countries using SharePoint and SAP.
-            - Performed more than 50 SharePoint version upgrades and migrations for various clientele.
-            - Configured Forms Based Authentication on several web applications.
-            - Responsible for support between SharePoint and other systems including Exchange, OCS/Lync, SCOM/SCCM, Great Plains and Microsoft CRM.
-            - Developed and deployed new solutions, web parts and branding elements in SharePoint using Visual Studio, SP Designer, CSS, XML, and JQuery.
-            - Migrated hundreds of subsites, lists and document libraries using PowerShell.
+            - Consulted for sausage-casing manufacturer on a project that unified financial and business data across departments, locations, and countries using SharePoint and SAP. 
 projects:
     title: Projects
     intro: >
