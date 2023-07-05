@@ -117,7 +117,7 @@ experiences:
             - Migrated the site collections for ~50 site departments from on-premise to O365 using a combination of Metalogix, Sharegate and Powershell.
             - Configured and tailored Search Enterprise for SharePoint to enable search throughout the entirety of the company and provide custom results with use of queries and refiners.
             - Created dozens of complex custom workflows using a combination of Power Automate, SharePoint Designer, VSCode and InfoPath.
-      - role: SharePoint Administratior/System Engineer
+      - role: SharePoint Administrator/System Engineer
         time: 2010 - 2014
         company: The Ruby Technology Group
         details: |
